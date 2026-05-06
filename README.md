@@ -224,10 +224,10 @@
 
   <section>
     <p>
-      This Privacy Policy describes how <strong>[Your Company / Your Name]</strong> ("we," "us," or "our") collects, uses, and shares information about you when you use <strong>[Your App / Service Name]</strong> (the "Service"). By using the Service, you agree to the collection and use of information in accordance with this policy.
+      This Privacy Policy describes how <strong>Aaron Chernick</strong> ("we," "us," or "our") collects, uses, and shares information about you when you use <strong>Learn Chitas</strong> (the "Service"). By using the Service, you agree to the collection and use of information in accordance with this policy.
     </p>
     <div class="callout">
-      <p>If you have questions about this policy or your data, contact us at <a href="mailto:privacy@yourdomain.com">privacy@yourdomain.com</a>.</p>
+      <p>If you have questions about this policy or your data, contact us at <a href="mailto:aronchernick@gmail.com">aronchernick@gmail.com</a>.</p>
     </div>
   </section>
 
@@ -326,13 +326,13 @@
       <li><strong>Withdraw consent:</strong> Where processing is based on consent, withdraw it at any time without affecting the lawfulness of prior processing.</li>
       <li><strong>Opt-out of sale/sharing (CCPA):</strong> California residents may opt out of the sale or sharing of personal information.</li>
     </ul>
-    <p>To exercise any of these rights, contact us at <a href="mailto:privacy@yourdomain.com">privacy@yourdomain.com</a>. We will respond within 30 days. We may need to verify your identity before fulfilling your request.</p>
+    <p>To exercise any of these rights, contact us at <a href="mailto:aronchernick@gmail">aronchernick@gmail</a>. We will respond within 30 days. We may need to verify your identity before fulfilling your request.</p>
   </section>
 
   <section id="childrens-privacy">
     <h2><span class="num">8.</span> Children's Privacy</h2>
     <p>The Service is not directed to children under the age of 13 (or 16 in the European Economic Area). We do not knowingly collect personal information from children. If we become aware that we have collected personal information from a child without parental consent, we will take steps to delete that information promptly.</p>
-    <p>If you are a parent or guardian and believe your child has provided us with personal information, please contact us at <a href="mailto:privacy@yourdomain.com">privacy@yourdomain.com</a>.</p>
+    <p>If you are a parent or guardian and believe your child has provided us with personal information, please contact us at <a href="mailto:aronchernick@gmail">privacy@yourdomain.com</a>.</p>
   </section>
 
   <section id="third-party">
@@ -350,8 +350,8 @@
     <h2><span class="num">11.</span> Contact Us</h2>
     <p>If you have any questions, concerns, or requests regarding this Privacy Policy or our data practices, please contact us:</p>
     <ul>
-      <li><strong>Email:</strong> <a href="mailto:privacy@yourdomain.com">privacy@yourdomain.com</a></li>
-      <li><strong>Mailing address:</strong> [Your Company Name], [Street Address], [City, State, ZIP], [Country]</li>
+      <li><strong>Email:</strong> <a href="mailto:aronchernick@gmail">privacy@yourdomain.com</a></li>
+      <li><strong>Mailing address:</strong> Aaron Chernick, 727 Fenimore St, Apt 1, Brooklyn, NY 11203, USA</li>
     </ul>
     <p>If you are located in the European Economic Area and have concerns about our data practices that we have not resolved, you have the right to lodge a complaint with your local data protection authority.</p>
   </section>
@@ -359,7 +359,7 @@
 </main>
 
 <footer>
-  &copy; 2025 [Your Company Name]. All rights reserved.
+  &copy; 2026 Aaron Chernick. All rights reserved.
 </footer>
 
 </body>
